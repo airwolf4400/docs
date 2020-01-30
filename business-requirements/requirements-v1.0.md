@@ -81,3 +81,4 @@
 12. Customisation of Online status ( like if you can hide)
 
 - should be ok - OK
+13. Start in dark mode. Sun symbol on main chat screen to directly switch to light mode. 
